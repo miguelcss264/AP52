@@ -1,0 +1,10 @@
+Ana SL 3
+Pep LO 4
+Ana FE 2
+Ana TF 1
+Pep HF 6
+Ana HG 2
+Pep SD 8
+Pep HD 9
+Ana WE 0
+Pep AS 2
